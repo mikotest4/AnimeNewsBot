@@ -48,9 +48,10 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
 
 ---
 
-### How to extract Cookies.
+### How to extract Cookies and setup them.
 
 - **Read this Article**: You will find full Guide Here [Click Here](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)
+- **How to setup**: Save the cookies as cookies.txt in the root Directory.
 
 ---
 
