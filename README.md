@@ -37,12 +37,14 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
 
 - `/start`: Starts the bot and provides basic info.
 - `/news <channel_id_or_username>`: Connects a channel (with @username) where the bot will post the anime news.
+- `/sendnews <rss> <position>`: Send news [Force].
 
 ---
 
 ### Owner/Sudo Commands
 
 - `/news <channel_id_or_username>`: Admins use this command to connect the bot to a Telegram channel or group for posting news.
+- `/sendnews <rss> <position>`: Send news [Force].
 
 ---
 
@@ -102,5 +104,5 @@ For support or questions, reach out to me at:
 ### Example Images
 Here are some anime-related images that you can use in your bot interface:
 
-![Anime Image](https://ibb.co/DggDvTKj])
-![Isagi Yoichi](https://ibb.co/8L5Gfkrq])
+![1](https://i.ibb.co/fzn5pVR9/1.png)
+![2](https://i.ibb.co/2Y85Znbk/2.png)
