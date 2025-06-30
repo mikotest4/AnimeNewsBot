@@ -46,6 +46,12 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
 
 ---
 
+### How to extract Cookies.
+
+- **Read this Article**: You will find full Guide Here [Click Here](https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies)
+
+---
+
 ### How to Host the Bot
 
 You can easily deploy this bot to **Heroku** with just a few clicks. Use the button below to deploy it instantly:
