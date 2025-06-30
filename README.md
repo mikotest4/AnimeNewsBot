@@ -7,6 +7,7 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
   - [MyAnimeList](https://myanimelist.net)
   - [Crunchyroll](https:Crunchyroll.com)
   - [TheAnimeDaily](https://www.theanimedaily.com/)
+  - [AnimeNewsNetwork](https://www.animenewsnetwork.com/)
 - Allows you to **connect a news channel** where the bot will post updates.
 - Provides **admin-only control** over which channel receives the news.
 
@@ -17,6 +18,7 @@ This Telegram bot fetches anime news from multiple sources like MyAnimeList, Cru
   - [MyAnimeList](https://myanimelist.net/rss/news.xml)
   - [Crunchyroll](https://feeds.feedburner.com/crunchyroll/rss)
   - [TheAnimeDaily](https://www.theanimedaily.com/feed/)
+  - [AnimeNewsNetwork](https://www.animenewsnetwork.com/newsfeed/rss.xml?ann-edition=us)
 
 ---
 
